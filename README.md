@@ -6,6 +6,7 @@ Create a Rectangle Class with the Following Additional Functions: <br/>
 - Print function: print all the attributes of the rectangle in the following format, 2 digits are kept after the decimal point and the display column for width and height should be 10 and left alignment is required. <br/>
 ### Question 4: Line Class
 Create a Line Class with the Following Atrributes and Methods: <br/>
+<br/>
 Attributes:<br/>
 - Slope (k) <br/>
 - Intercept (b) <br/>
