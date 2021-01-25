@@ -8,7 +8,7 @@ Create a Rectangle Class with the Following Additional Functions: <br/>
 Create a Line Class with the Following Atrributes and Methods: <br/>
 Attributes:<br/>
 - Slope (k) <br/>
--Intercept (b) <br/>
+- Intercept (b) <br/>
 <br/>
 Methods: <br/>
 - Overloaded operator == : determine whether two lines are the same, including k and b are respectively equal <br/>
